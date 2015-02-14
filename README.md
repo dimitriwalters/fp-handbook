@@ -1,2 +1,3 @@
 # fp-handbook
-Handbook for functional programming
+
+A guide to understanding common terms and concepts in functional programming.
